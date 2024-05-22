@@ -1,0 +1,2 @@
+healthcheck_SprigRest.rar filter=lfs diff=lfs merge=lfs -text
+healthcheck_SpringRest.rar filter=lfs diff=lfs merge=lfs -text
